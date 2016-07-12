@@ -9,7 +9,7 @@ $(function(){
                 name: $('#name').val(),
                 email: $('#email').val(),
                 subject: $('#subject').val(),
-                rel: $('#rel').val(),
+                ref: $('#ref').val(),
                 message: $('#message').val(),
         },
         dataType: "json"
